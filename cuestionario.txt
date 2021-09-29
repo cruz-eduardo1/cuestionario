@@ -1,3 +1,9 @@
 Jose Eduardo Cruz Gutierrez y Raul Emiliano Castro Ortiz del grupo 4F
 ¿En tus palabras que es internet?R= Es una red de informacion que nos permite estar conectados con el resto del mundo.
 Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
+¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.R=Las direcciones IP son el codigo que se necesita para poder acceder a una red de internet(contraseña) y tambien sirve para que cuando quieras mandar informacion de una computadora a otra las computadoras sepan a donde mandar la informacion.Los DNS sirven para asociar sirecciones de paginas de internet con su nombre,por ejemplo:www.ejemplo.com
+Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
+Describe los protocolos que existen en internet, en específico HTTP y HTML.R= HTTP es la forma en la que un ordenador le pide a otro algun documento y HTML sirve para decirle a un navegador web como presentar una pagina.
+En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
+En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.R= Para protegerte de los criminales de internet lo que debes hacer es tener un buen antiviruz instalado en tu computadora y no dar informacion ni contraseñas a sitios web que no sean de confianza.
+¿Cómo funciona la búsqueda de google?
