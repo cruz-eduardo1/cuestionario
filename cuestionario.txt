@@ -1,9 +1,24 @@
+<!-- ---- 5oct | @SRTP: preguntas sin enumerar ----  -->
 Jose Eduardo Cruz Gutierrez y Raul Emiliano Castro Ortiz del grupo 4F
-¿En tus palabras que es internet?R= Es una red de informacion que nos permite estar conectados con el resto del mundo.
-Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet. Estas de transmites mediante 3 medio, sobre la electricidad, la luz e inalambricamente 
-¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.R=Las direcciones IP son el codigo que se necesita para poder acceder a una red de internet(contraseña) y tambien sirve para que cuando quieras mandar informacion de una computadora a otra las computadoras sepan a donde mandar la informacion.Los DNS sirven para asociar sirecciones de paginas de internet con su nombre,por ejemplo:www.ejemplo.com
-Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular. Mediante el servidor de Spotify y la cancion se manda por un archivo o formato TCP el cual es un protocolo que el servidor de Spotify envia y tu puedas escuchar la cancion completa con cada uno de sus fragmentos
-Describe los protocolos que existen en internet, en específico HTTP y HTML.R= HTTP es la forma en la que un ordenador le pide a otro algun documento y HTML sirve para decirle a un navegador web como presentar una pagina.
-En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas. Que la llave publica es la que tu mandas y la llave privada es la que tiene el receptor y el es el único que puedo ver o abrir el mensajeo información que le sea enviada.
-En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.R= Para protegerte de los criminales de internet lo que debes hacer es tener un buen antiviruz instalado en tu computadora y no dar informacion ni contraseñas a sitios web que no sean de confianza.
-¿Cómo funciona la búsqueda de google? La busqueda en google funciona desde la solicitud del remitente hasta el receptor que es el servidor de Google, la busqueda se hace en tiempo real y se recopila mediante un tipo de inteligencia para que sea la mas adecuada a la pregunta. También los resultados se basan en un filtro de seguridad o confiabilidad de una pagina.
+
+¿En tus palabras que es internet?
+R= Es una red de informacion que nos permite estar conectados con el resto del mundo.
+
+Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
+ Estas de transmites mediante 3 medio, sobre la electricidad, la luz e inalambricamente 
+
+¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
+R=Las direcciones IP son el codigo que se necesita para poder acceder a una red de internet(contraseña) y tambien sirve para que cuando quieras mandar informacion de una computadora a otra las computadoras sepan a donde mandar la informacion.Los DNS sirven para asociar sirecciones de paginas de internet con su nombre,por ejemplo:www.ejemplo.com <!-- ---- 5oct | @SRTP: 1/2 respuesta ----  -->
+
+Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
+ Mediante el servidor de Spotify y la cancion se manda por un archivo o formato TCP el cual es un protocolo que el servidor de Spotify envia y tu puedas escuchar la cancion completa con cada uno de sus fragmentos <!-- ---- 5oct | @SRTP: más o menos ----  -->
+
+Describe los protocolos que existen en internet, en específico HTTP y HTML.
+R= HTTP es la forma en la que un ordenador le pide a otro algun documento y HTML sirve para decirle a un navegador web como presentar una pagina. <!-- ---- 5oct | @SRTP: ok ----  -->
+
+En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas. 
+Que la llave publica es la que tu mandas y la llave privada es la que tiene el receptor y el es el único que puedo ver o abrir el mensajeo información que le sea enviada. <!-- ---- 5oct | @SRTP: Faltó desarrollar ----  -->
+En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.R= P
+ara protegerte de los criminales de internet lo que debes hacer es tener un buen antiviruz instalado en tu computadora y no dar informacion ni contraseñas a sitios web que no sean de confianza. <!-- ---- 5oct | @SRTP: faltó desarrollar ----  -->
+¿Cómo funciona la búsqueda de google?
+ La busqueda en google funciona desde la solicitud del remitente hasta el receptor que es el servidor de Google, la busqueda se hace en tiempo real y se recopila mediante un tipo de inteligencia para que sea la mas adecuada a la pregunta. También los resultados se basan en un filtro de seguridad o confiabilidad de una pagina. <!-- ---- 5oct | @SRTP: ok ----  -->
